@@ -1,2 +1,2 @@
 # CIAO-FS
-a lite and small experimental file-system
+Implementations and Theory of the *ciao-fs*
